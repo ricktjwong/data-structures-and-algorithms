@@ -7,16 +7,16 @@
 - [x] Insertion sort
 
 ### Efficient sorts
-- [] Merge sort
-- [] Heap sort
-- [] Quicksort
-- [] Shellsort
+- [ ] Merge sort
+- [ ] Heap sort
+- [ ] Quicksort
+- [ ] Shellsort
 
 ### Bubble sort and variants
-- [] Bubble sort
-- [] Comb sort
+- [ ] Bubble sort
+- [ ] Comb sort
 
 ### Distribution sort
-- [] Bucket sort
-- [] Counting sort
-- [] Radix sort
+- [ ] Bucket sort
+- [ ] Counting sort
+- [ ] Radix sort
